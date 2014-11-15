@@ -42,7 +42,7 @@ else:
 
 
 # data analyze
-MUSIC = '1.wav'
+MUSIC = 'mario.wav'
 formal_fft = []
 grid = []
 col = [0,0,0,0,0,0,0,0,0,0]
